@@ -4,7 +4,7 @@
 </head>
 <body>
 	The WebApp is <%= "working!" %>
-	This Shows Changes made successful
+	This Shows Changes made successfull
 	<ul>
 		<li><a href="test-attributes.jsp?output">Servlet Attributes</a></li>
 		<li><a href="test-jndi.jsp">JNDI</a></li>
